@@ -18,6 +18,11 @@ A lightweight personal developer portfolio web application served entirely using
 ## 🛠️ How to Run Locally
 
 1. **Clone the repo:**
-   ```bash
    git clone [https://github.com/Piyush-singh-404/JavaPortfolio.git](https://github.com/Piyush-singh-404/JavaPortfolio.git)
    cd JavaPortfolio
+Compile the server:
+javac PortfolioServer.java
+Start the server:
+java PortfolioServer
+Open your browser and go to:
+http://localhost:8080

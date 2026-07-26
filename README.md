@@ -1,31 +1,23 @@
-# Java Portfolio Server 🚀
+# Personal Portfolio Website (Java HTTP Server) 🚀
 
 ![Status](https://img.shields.io/badge/Status-Work%20In%20Progress-yellow?style=for-the-badge&logo=github)
 ![Java](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java)
 
-Welcome to my personal developer portfolio server built completely from scratch using core Java (`com.sun.net.httpserver.HttpServer`).
+A lightweight personal developer portfolio web application served entirely using Core Java's built-in `HttpServer`. This project renders an interactive HTML/CSS portfolio showcasing projects, skills, education, and social profiles without needing external heavy frameworks.
 
 ---
 
-## 📌 Featured Projects
-- 🧠 **AI-Emotion-Detection-System** - Real-time facial expression and sentiment analysis using deep learning and computer vision.
-- 🌾 **Smart-Agriculture** - IoT & Machine Learning based platform for crop health monitoring, soil analysis, and yield prediction.
-- 🤖 **HIRE PILOT AI** - Autonomous AI assistant designed to streamline candidate sourcing and screening.
-- 📄 **AI-Powered Applicant Tracking System** - Smart ATS that automatically parses resumes and ranks candidate profiles using NLP.
+## 🌟 Key Features
+- **Pure Java Backend:** Built using `com.sun.net.httpserver.HttpServer`.
+- **Dynamic HTML/CSS Rendering:** Custom-designed dark theme layout embedded in Java response streams.
+- **Project Showcase:** Highlights major AI/ML & Engineering projects.
+- **Social Links & Info:** Includes profile links for GitHub, LinkedIn, and education credentials.
 
 ---
 
-## 💻 Tech Stack
-- **Backend:** Java (HTTP Server API)
-- **Frontend:** HTML5, CSS3 (Embedded Styles)
-- **Deployment & Tunneling:** Localtunnel / Ngrok
-- **Version Control:** Git & GitHub
+## 🛠️ How to Run Locally
 
----
-
-## 🚀 How to Run Locally
-
-1. Clone the repository:
+1. **Clone the repo:**
    ```bash
    git clone [https://github.com/Piyush-singh-404/JavaPortfolio.git](https://github.com/Piyush-singh-404/JavaPortfolio.git)
    cd JavaPortfolio
